@@ -1,4 +1,10 @@
 # TFNH
+Source code for ICMR'19 paper "[Triplet Fusion Network Hashing for Unpaired Cross-Modal Retrieval](https://dl.acm.org/doi/10.1145/3323873.3325041)"
+
+Related Works on CMH:
+- [[TPAMI'24] Cross-Modal Hashing Method with Properties of Hamming Space: A New Perspective](https://github.com/hutt94/SCH)
+- [[TCSVT'23] Joint Semantic Preserving Sparse Hashing for Cross-Modal Retrieval](https://github.com/hutt94/JSPSH)
+- [[ICASSP'24] Key Points Centered Sparse Hashing for Cross-Modal Retrieval](https://github.com/hutt94/KPCSH)
 
 You can directly run the file 
 ```
