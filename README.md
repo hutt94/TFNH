@@ -12,7 +12,7 @@ main.py
 ```
 to get the results.
 
-If you have any question, please contact Zhikai Hu at cszkhu@comp.hkbe.edu.hk. (If you are a Chinese, you can write an e-mail in Chinese.)
+If you have any question, please contact Zhikai Hu at cszkhu@comp.hkbu.edu.hk. (If you are a Chinese, you can write an e-mail in Chinese.)
 
 If you find TFNH useful in your research, please consider citing:
 
